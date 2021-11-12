@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable array-callback-return */
 import axios from "axios";
 import { useCallback, useEffect, useState } from "react";
 import parse from "xml-parser";

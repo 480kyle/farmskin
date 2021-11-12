@@ -1,3 +1,5 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable react-hooks/exhaustive-deps */
 // import { useState } from "react";
 import { useCallback, useEffect, useState } from "react";
 import styled from "styled-components";
